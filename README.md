@@ -1,2 +1,5 @@
 # Assignment5_JUnit
-AssignmentJUnitTest_SoftwareEngineeringToolsAndMethodsClass
+Assignment JUnit Test
+Software Engineering Tools And Methods Class
+University of Almeria
+Seyed Mohammadsaleh Mirzatabatabaei
